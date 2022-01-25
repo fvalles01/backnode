@@ -1,0 +1,7 @@
+DATABASE = mongodb+srv://Arnaud:Ewk4B23d6N3pseQw@fullstack.l4ccz.mongodb.net/Boutique?retryWrites=true&w=majority
+
+TOKEN_SECRET = RANDOM_TOKEN_SECRET
+
+EMAIL = arnaud.lyard@gmail.com
+
+PASSWORD = eXtreme01gma
